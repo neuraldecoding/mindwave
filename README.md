@@ -1,0 +1,2 @@
+# mindwave
+alat rekam mindwave
